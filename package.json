@@ -1,0 +1,17 @@
+{
+  "name": "vconnect",
+  "version": "1.0.0",
+  "description": "Change password and forgot password for Vconnect",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kirankumar",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "node-modules": "^1.0.1"
+  }
+}
